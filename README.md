@@ -1,5 +1,9 @@
 # Simple-C-Shell
 
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/standard/74528.html)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+
 ## Description
 
 This project implements a customizable Unix shell implementation written in C, leveraging fundamental data structures like linked lists, stacks, and queues. It offers a user-friendly command-line interface with essential functionalities such as file operations, command history tracking, and undo capabilities.
